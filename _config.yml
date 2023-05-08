@@ -1,0 +1,8 @@
+url: "https://www.99000000.xyz"
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"

@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/assets/css/simple.css">
+    <title>{{ page.title }}</title>
+  </head>
+  <body>
+    <header class="page-header">
+      {% if page.title %}
+      <h1>{{ page.title }}</h1>
+      {% else %}
+      <h1>{{ page.name }}</h1>
+      {% endif %}
+    </header>
+    <div class="page-content">
+    {{ content }}
+    <p>found on <a href="https://www.990000000.xyz/">99 million dot xyz</a>. no rights reserved.</p>
+    </div>
+  </body>
+</html>
