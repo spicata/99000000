@@ -9,7 +9,7 @@ Hello, I'm M.spicata, and welcome to 99 000 000.xyz (pronounced 99 million dot x
 - I thought it would be funny
 - I could do it
 - I wanted to do it
-- 99 000 000 has no real meaning, so I could assign it one, and I wouldn't be limited by that later one
+- 99 000 000 has no real meaning, so I could assign it one, and I wouldn't be limited by that later on
 - It is fairly memorisable
 
 Also, I can use the subdomainds now. Here are the stuff on 99 000 000.xyz (for now):
