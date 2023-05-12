@@ -15,3 +15,4 @@ Hello, I'm M.spicata, and welcome to 99 000 000.xyz (pronounced 99 million dot x
 Also, I can use the subdomains now. Here are the stuff on 99 000 000.xyz (for now):
 
 - [M.spicata's website](https://spicata.99000000.xyz/)
+- [I am rich!!!](https://theamountofmoneyihaveis.99000000.xyz/)
